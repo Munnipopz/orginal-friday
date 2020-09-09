@@ -11,9 +11,9 @@ pm_caption = "**ᴹᵃⁿʲᵃᵖᵖᵃᵈᵃ ᵢₛ ₒₙₗᵢₙₑ**\n"
 
 pm_caption += f"**M̴y̴ ̴B̴o̴s̴s̴**            : {DEFAULTUSER}\n"
 
-pm_caption += "ᴹᵃⁿʲᵃᵖᵖᵃᵈᵃ          : [ᴡᴇʟᴄᴏᴍᴇ](https://t.me/joinchat/Oq1jlViv1uS2AkOG9MKChw)\n"
+pm_caption += "ᴹᵃⁿʲᵃᵖᵖᵃᵈᵃ          : [ᴳʳᵒᵘᵖ ᴸⁱⁿᵏ](http://t.me/kbfcmanjappada)\n"
 
-pm_caption += "ᴍʏ ᴄʜᴀɴɴᴇʟ     : [ᴡᴇʟᴄᴏᴍᴇ](https://t.me/joinchat/AAAAAEdoBMaQSuvk0xFNCw)\n"
+pm_caption += "ᴍʏ ᴄʜᴀɴɴᴇʟ     : [ᶜʰᵃⁿⁿᵉˡ ᴸⁱⁿᵏ](https://t.me/kbfc_manjappada)\n"
 
 pm_caption += "ʟɪᴄᴇɴꜱᴇ              : [ᴹᴵᵀ ᴸⁱᶜᵉⁿᶜᵉ](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n"
 
