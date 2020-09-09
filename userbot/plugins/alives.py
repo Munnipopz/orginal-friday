@@ -15,7 +15,7 @@ pm_caption += "ᴹᵃⁿʲᵃᵖᵖᵃᵈᵃ          : [ᴳʳᵒᵘᵖ ᴸⁱ�
 
 pm_caption += "ᴍʏ ᴄʜᴀɴɴᴇʟ     : [ᶜʰᵃⁿⁿᵉˡ ᴸⁱⁿᵏ](https://t.me/kbfc_manjappada)\n"
 
-pm_caption += "ʟɪᴄᴇɴꜱᴇ              : [ᴹᴵᵀ ᴸⁱᶜᵉⁿᶜᵉ](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n"
+pm_caption += "ʟɪᴄᴇɴꜱᴇ              : [ʸᵉˡˡᵒʷ](https://telegra.ph/file/59e521721f043e33f7c0a.jpg)\n"
 
 pm_caption += "ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ    :  [𝙎𝙩𝙖𝙧𝙠𝙂𝙖𝙣𝙜](GitHub.com/StarkGang)\n"
 
