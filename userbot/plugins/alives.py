@@ -13,11 +13,11 @@ pm_caption += f"**M̴y̴ ̴B̴o̴s̴s̴**            : {DEFAULTUSER}\n"
 
 pm_caption += "ᴹᵃⁿʲᵃᵖᵖᵃᵈᵃ          : [ᴳʳᵒᵘᵖ ᴸⁱⁿᵏ](http://t.me/kbfcmanjappada)\n"
 
-pm_caption += "ᴹᵃⁿʲᵃᵖᵖᵃᵈᵃ     : [ᶜʰᵃⁿⁿᵉˡ ᴸⁱⁿᵏ](https://t.me/kbfc_manjappada)\n"
+pm_caption += "ᴹᵃⁿʲᵃᵖᵖᵃᵈᵃ         : [ᶜʰᵃⁿⁿᵉˡ ᴸⁱⁿᵏ](https://t.me/kbfc_manjappada)\n"
 
 pm_caption += "ʟɪᴄᴇɴꜱᴇ              : [ʸᵉˡˡᵒʷ](https://telegra.ph/file/59e521721f043e33f7c0a.jpg)\n"
 
-pm_caption += "ᴳʳᵒᵘᵖ ᴼʷⁿᵉʳ      :  [ʙɪᴊɪ ꜱᴀᴍ](http://t.me/kbfcmanjappada)\n"
+pm_caption += "ᴳʳᵒᵘᵖ ᴼʷⁿᵉʳ        :  [ʙɪᴊɪ ꜱᴀᴍ](http://t.me/kbfcmanjappada)\n"
 
 pm_caption += " [┏┓━┏┓━━━━┏┓━┏┓━━━━━\n ┃┃━┃┃━━━━┃┃━┃┃━━━━━\n ┃┗━┛┃┏━━┓┃┃━┃┃━┏━━┓\n ┃┏━┓┃┃┏┓┃┃┃━┃┃━┃┏┓┃ \n ┃┃━┃┃┃┃━┫┃┗┓┃┗┓┃┗┛┃ \n ┗┛━┗┛┗━━┛┗━┛┗━┛┗━━┛](https://t.me/Munnipopz)"
 #@command(outgoing=True, pattern="^.alive$")
